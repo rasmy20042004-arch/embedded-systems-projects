@@ -1,0 +1,28 @@
+# MPLAB X / XC8 generated output
+**/build/
+**/dist/
+**/debug/
+**/nbproject/private/
+*.pre
+*.p1
+*.d
+*.o
+*.rlf
+*.sdb
+*.sym
+*.lst
+*.map
+*.elf
+*.cmf
+*.mum
+*.hxl
+
+# Proteus local/backup files
+**/Project Backups/
+*.user.workspace
+*.workspace
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
