@@ -1,4 +1,4 @@
-﻿# PIC16F877A Embedded Systems Projects
+# PIC16F877A Embedded Systems Projects
 
 A compact embedded-systems portfolio built around the **PIC16F877A**, **MPLAB X**, **XC8**, and **Proteus**. This repository groups four practical projects demonstrating digital I/O, timers, ADC, PWM, LCD interfacing, and basic control logic.
 
@@ -26,10 +26,10 @@ Also verify:
 
 ```text
 embedded-systems-projects/
-â”œâ”€â”€ knight-rider-circuit/
-â”œâ”€â”€ digital-stopwatch/
-â”œâ”€â”€ pwm-dimming/
-â””â”€â”€ ldr-light-controller/
+|-- knight-rider-circuit/
+|-- digital-stopwatch/
+|-- pwm-dimming/
+\-- ldr-light-controller/
 ```
 
 Each subproject contains firmware, Proteus simulation files, and its own README.
